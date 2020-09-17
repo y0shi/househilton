@@ -1,6 +1,10 @@
 github:
     is_project_page: false
-    
+
+plugins:
+    - jekyll-gist
+    - jekyll-twitter-plugin
+
 theme: jekyll-theme-midnight
 
 title: HOUSE HILTON
